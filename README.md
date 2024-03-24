@@ -1,2 +1,1 @@
-# openerp-entities-ptbr
-OpenERP Entities Package (pt-br)
+# OpenERP Entities Package (pt-br)
